@@ -1,3 +1,0 @@
-curl -X POST "https://www.socalliance.hk/soca-api/public/api/addPostByApi" ^
--H "Content-Type: application/json" ^
--d "{\"token\": \"YOUR_TOKEN_HERE\", \"postTitle\": \"Malicious Domains Discovery\", \"postFirstKnownTs\": 1711338922000, \"postCategoryID\": 1, \"postThreatTypeID\": 1, \"postSeverity\": \"High\", \"anonymous\": true, \"postTLP\": \"Amber\", \"postDomain\": [{\"iocValue\": \"uamapi-prod.apps.non-coreprod.sterlingbank.com\", \"iocFirstKnownTs\": 1711338922000}, {\"iocValue\": \"enf-fe-pilot.apps.non-coreprod.sterlingbank.com\", \"iocFirstKnownTs\": 1711338922000}, {\"iocValue\": \"enf-pilot.sterling.ng\", \"iocFirstKnownTs\": 1711338922000}], \"postContent\": \"<p>Detected malicious domains related to potential banking sector targeting.</p>\"}"

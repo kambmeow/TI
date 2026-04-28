@@ -1,0 +1,3 @@
+curl -X POST "https://www.socalliance.hk/soca-api/public/api/addPostByApi" ^
+-H "Content-Type: application/json" ^
+-d @data.json
