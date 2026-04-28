@@ -1,0 +1,3 @@
+curl -X POST "https://www.socalliance.hk/soca-api/public/api/addPostByApi" ^
+-H "Content-Type: application/json" ^
+-d "{\"token\": \"你的_API_TOKEN\", \"postTitle\": \"Windows cURL 提交情報\", \"postFirstKnownTs\": 1711338922000, \"postCategoryID\": 1, \"postThreatTypeID\": 1, \"postSeverity\": \"Medium\", \"anonymous\": true, \"postTLP\": \"Amber\", \"postIP\": [{\"iocValue\": \"1.2.3.4\", \"iocThreatType\": \"Malicious IP\", \"iocSeverity\": \"High\"}], \"postDomain\": [{\"iocValue\": \"evil-example.com\", \"iocFirstKnownTs\": 1711338922000}], \"postContent\": \"<p>這是經由 Windows CMD cURL 上傳的威脅情報</p>\"}"
