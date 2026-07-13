@@ -1,0 +1,168 @@
+{
+  "token": "TOKEN",
+  "postTitle": "2026-07-13 Malicious IP",
+  "postFirstKnownTs": 1783900800000,
+  "postCategoryID": 3,
+  "postThreatTypeID": 16,
+  "postSeverity": "Medium",
+  "anonymous": true,
+  "postTLP": "Amber",
+  "postIP": [
+    {
+      "iocValue": "104.192.3.106",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "94.154.43.64",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "45.156.87.213",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "45.148.10.238",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "45.194.92.62",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "103.252.90.129",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "45.79.207.110",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "45.79.207.71",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "45.198.224.5",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "94.154.43.225",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "34.34.103.195",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "5.187.35.142",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "94.26.88.19",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "79.76.58.113",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "151.242.30.224",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "3.17.72.108",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "222.112.82.87",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "163.7.11.230",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "94.26.106.80",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "166.88.26.191",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "192.142.28.77",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "166.88.26.186",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "18.218.118.203",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "18.116.101.220",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "13.127.222.138",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "45.148.10.18",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "166.88.26.174",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "194.36.25.45",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "194.163.175.27",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "112.121.183.206",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    },
+    {
+      "iocValue": "116.99.49.208",
+      "iocThreatType": "General",
+      "iocSeverity": "Medium"
+    }
+  ],
+  "postContent": "<p>Detected multiple malicious IPs from email report.</p>"
+}
